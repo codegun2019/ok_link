@@ -1,0 +1,243 @@
+{
+  "brand": {
+    "name": "prompt-like.com",
+    "tagline": "Connect all your platforms"
+  },
+  "loading": {
+    "text": "Loading..."
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Sign Up"
+  },
+  "home": {
+    "hero": {
+      "badge": "Free to use, no cost",
+      "title": "Create Your All-in-One Social Link Page — Boost Your Reach Everywhere!",
+      "subtitle": "Connect all your social platforms in one smart link — with boost & analytics",
+      "startFree": "Get Started",
+      "login": "Log In"
+    },
+    "socialSection": {
+      "title": "Connect Every Social Platform in One Click",
+      "description": "Instagram Link / YouTube Link / TikTok Link / Facebook Link"
+    },
+    "features": {
+      "title": "Boost efficiency with comprehensive features",
+      "description": "Manage your links professionally",
+      "analytics": {
+        "title": "Analytics",
+        "description": "Track clicks and visitor behavior in real-time"
+      },
+      "customize": {
+        "title": "Easy Customization",
+        "description": "Design your unique link page with easy-to-use tools"
+      },
+      "accessible": {
+        "title": "Accessible Everywhere",
+        "description": "Works on all devices: mobile, tablet, and computer"
+      }
+    },
+    "boostSection": {
+      "title": "Boost Likes, Followers, and Views — All in One Place",
+      "description": "Complete tools for professional link management",
+      "automated": "Automated System",
+      "automatedDesc": "Smooth experience on mobile, tablet, and computer",
+      "fastSafe": "Fast & Safe Boosting",
+      "fastSafeDesc": "Choose colors, fonts, and themes that match your brand",
+      "realGrowth": "Real Follower Growth",
+      "realGrowthDesc": "International-standard security system with SSL Certificate",
+      "deepInsights": "Deep Insights",
+      "deepInsightsDesc": "CDN technology makes pages load fast worldwide"
+    },
+    "trustSection": {
+      "title": "Trusted by Creators Worldwide",
+      "description": "Trusted by over 2 million users worldwide"
+    },
+    "stats": {
+      "users": "Users Worldwide",
+      "links": "Links Clicked",
+      "countries": "Countries Using",
+      "uptime": "Uptime",
+      "uptimeDesc": "Stable system, available 24/7",
+      "speed": "Fast Loading",
+      "speedDesc": "Pages load instantly, no waiting",
+      "support": "Support",
+      "supportDesc": "Our team is ready to help you anytime"
+    },
+    "whySection": {
+      "title": "Why Promline? Because we're the best!"
+    },
+    "integrations": {
+      "instagram": {
+        "badge": "Instagram",
+        "title": "Connect Your Instagram",
+        "description": "Display your latest posts, photos, and stories from Instagram on your link page",
+        "feature1": "Auto-display latest posts",
+        "feature2": "Connect multiple accounts",
+        "feature3": "Track click statistics",
+        "button": "Connect Instagram"
+      },
+      "youtube": {
+        "badge": "YouTube",
+        "title": "Share YouTube Videos",
+        "description": "Show latest videos from your YouTube channel, increase followers and views",
+        "feature1": "Auto-display latest videos",
+        "feature2": "Play videos on same page",
+        "feature3": "Increase views and subscribers",
+        "button": "Connect YouTube"
+      },
+      "tiktok": {
+        "badge": "TikTok",
+        "title": "Connect TikTok",
+        "description": "Display your popular TikTok videos, increase followers and engagement",
+        "feature1": "Show popular videos",
+        "feature2": "Auto-update",
+        "feature3": "Increase engagement",
+        "button": "Connect TikTok"
+      },
+      "facebook": {
+        "badge": "Facebook",
+        "title": "Connect Facebook",
+        "description": "Display your Facebook posts and pages, increase reach and engagement",
+        "feature1": "Show latest posts",
+        "feature2": "Connect pages and profiles",
+        "feature3": "Increase likes and shares",
+        "button": "Connect Facebook"
+      }
+    },
+    "howItWorks": {
+      "title": "Get Started in 3 Steps",
+      "description": "Easy and fast, no technical knowledge required",
+      "step1": {
+        "title": "Register",
+        "description": "Create a free account in seconds"
+      },
+      "step2": {
+        "title": "Customize",
+        "description": "Add links and customize your page"
+      },
+      "step3": {
+        "title": "Share",
+        "description": "Share your link to all platforms"
+      }
+    },
+    "testimonials": {
+      "title": "Real Voices from Our Users",
+      "description": "Reviews from real users",
+      "review1": {
+        "text": "So easy to use! Helps me manage all my links in one place. Saves so much time!",
+        "author": "John Smith",
+        "role": "Content Creator"
+      },
+      "review2": {
+        "text": "The analytics system is great, helps me see a clear overview of visitors",
+        "author": "Mary Johnson",
+        "role": "Influencer"
+      },
+      "review3": {
+        "text": "Beautiful design, easy to customize, perfect for our business. Highly recommend!",
+        "author": "David Lee",
+        "role": "Business Owner"
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Growing?",
+      "description": "Create your link page today, free! No credit card required",
+      "startFree": "Get Started Free",
+      "viewPackages": "View Packages",
+      "note": "Start free, no hidden fees, upgrade anytime"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Answers to the most common questions",
+      "q1": {
+        "question": "Is it really free?",
+        "answer": "Yes, we have a free package that gives you full access to basic features. You can upgrade anytime for additional features."
+      },
+      "q2": {
+        "question": "How many platforms can I connect?",
+        "answer": "You can connect unlimited platforms. We support 50+ popular platforms."
+      },
+      "q3": {
+        "question": "Is my data secure?",
+        "answer": "Absolutely. We use international-standard security with SSL Certificate and encrypt all data."
+      },
+      "q4": {
+        "question": "Can I cancel anytime?",
+        "answer": "Yes, you can cancel anytime. No penalties or additional fees."
+      }
+    }
+  },
+  "faqPage": {
+    "hero": {
+      "title": "Frequently Asked Questions",
+      "description": "Have questions? You can find answers here or contact our team"
+    },
+    "sidebar": {
+      "title": "FAQ List",
+      "mobileTit": "Questions List"
+    },
+    "categories": {
+      "general": "General",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "tiktok": "TikTok",
+      "facebook": "Facebook",
+      "twitter": "X (Twitter)",
+      "cancel": "Cancel & Refund",
+      "common": "Common Questions"
+    },
+    "cta": {
+      "title": "Have a Question?",
+      "description": "Still have other questions you need answered?",
+      "contact": "You can contact us at",
+      "button": "Contact LINE",
+      "note": "Or contact us directly via email or Line 24/7. We're here to help you!"
+    },
+    "services": {
+      "instagram": "Instagram Services",
+      "youtube": "YouTube Services",
+      "tiktok": "TikTok Services"
+    },
+    "linkText": "For more frequently asked questions, visit",
+    "linkService": "our service page"
+  },
+  "footer": {
+    "description": "The best social media link aggregation platform for you",
+    "products": {
+      "title": "Products",
+      "features": "Features",
+      "pricing": "Pricing",
+      "platforms": "Supported Platforms",
+      "examples": "Examples",
+      "api": "API"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "blog": "Blog",
+      "careers": "Careers",
+      "contact": "Contact",
+      "partners": "Partners"
+    },
+    "support": {
+      "title": "Support",
+      "helpCenter": "Help Center",
+      "faq": "FAQ",
+      "guide": "User Guide",
+      "status": "System Status",
+      "report": "Report Issue"
+    },
+    "copyright": "© 2025 Promline. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  }
+}
